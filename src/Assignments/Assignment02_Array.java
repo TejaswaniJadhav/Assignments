@@ -34,7 +34,7 @@ public class Assignment02_Array {
 	
 		System.out.println("names of 3rd semesters 4th subject:"+ Semesters [2][3][0] +" and" +" 5th subject:" + Semesters [2][4][0] );   
 		
-	    System.out.println("marks of 5th semesters 3rd subject marks:"+ Semesters [4][2][1] +" and" +" 6th subject marks:" + Semesters [4][5][1]);
+	    System.out.println("marks of 5th semesters 3rd subject:"+ Semesters [4][2][1] +" and" +" 6th subject:" + Semesters [4][5][1]);
 				
 	} 	
 	   
